@@ -6,8 +6,7 @@ public class SecondClass {
         System.out.println("Sherinay did great job! for preparation for Luis Bday.gi");
         System.out.println("in this class we learn how to fix confilict");
         System.out.println("in this class we learn how to fix confilict");
-        System.out.println("in this class we learn how to fix confilict");
-        System.out.println("in this class we learn how to fix confilict");
+        System.out.println("confilict");
 
 
     }
